@@ -1,0 +1,50 @@
+body {
+background : linear-gradient(90deg,blue,purple) ;
+
+}
+
+.container {
+    background-color: white;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 100px;
+border-radius: 10px;
+height: 280px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 25px;
+    font-size: xx-large;
+}
+#btn {
+padding-left: 130px;
+padding-right: 130px;;
+margin-left: 25px;
+height: 40px;
+border-radius: 30px;
+font-weight: bold;
+}
+#line {
+    width:295px;
+ border: 1px solid  rgb(204, 196, 196) ;
+}
+#tag {
+    width:348px;`
+    border: 1px solid rgb(229, 220, 220);
+}
+#username {
+    border-width: 0px;
+font-size: 10px;
+padding-left:30px
+}
+#none {
+    width:0px;
+}
+.sign-up{
+    text-align: center;
+    font-size: 13px;
+}
+a {
+    border-bottom: none;
+}
